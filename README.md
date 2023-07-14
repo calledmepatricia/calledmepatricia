@@ -1,5 +1,9 @@
 Hi 👋 My name is Suchawadee Aimsamran
-=====================================🌱 I’m currently learning about manual/automation testing 👯 I’m looking to collaborate on API Testing, Selenium, Playwright* 🌍  I'm based in Bangkok, Thailand* ✉️  You can contact me at [suchawadee.a@outlook.com](mailto:suchawadee.a@outlook.com)
+=====================================
+*🌱 I’m currently learning about **manual/automation testing**
+*👯 I’m looking to collaborate on **API Testing, Selenium, Playwright**
+*🌍  I'm based in Bangkok, Thailand
+*✉️  You can contact me at [suchawadee.a@outlook.com](mailto:suchawadee.a@outlook.com)
 
 ### Skills
 
